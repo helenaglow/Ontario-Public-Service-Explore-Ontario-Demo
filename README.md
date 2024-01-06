@@ -1,7 +1,7 @@
 # Explore Ontario 
 Explore Ontario is a group project created through UofT's CSC301: Introduction to Software Engineering and partnered with John Leadston from Ontario Public Service.
 
-**NOTE: The repo with the code is currently private due to security reasons, however can be demoed upon request.**
+**NOTE: The repo with the code is currently private, however can be demoed upon request.**
 
 ## Demo
 [<img src="https://github.com/helenaglow/Ontario-Public-Service-Explore-Ontario-Demo/assets/113125436/427e0530-cb69-4518-83f1-21b1fdabb56d">](https://youtu.be/9D7S-SC50J8)
